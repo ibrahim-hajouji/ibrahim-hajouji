@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ibahim-hajouji&abbreviated=true)
 
-## Hi, I'm Ibrahim Hajouji Idrissi 👋
-
+### Hi, I'm Ibrahim Hajouji Idrissi 👋
+---
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ6NmdxNXFqbnkwb3pjZnlvNWNqZWVyYjk2enh6bzJkNGdycXRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="270" />
 
 ### About me
