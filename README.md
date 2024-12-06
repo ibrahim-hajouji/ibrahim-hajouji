@@ -17,7 +17,6 @@
 </div>
 
 ---
-<br/>
 
 ### Languages & Tools ⚒️
 
@@ -71,7 +70,6 @@
     </tr>
   </table>
 </div>
-<br/>
 
 
 ---
