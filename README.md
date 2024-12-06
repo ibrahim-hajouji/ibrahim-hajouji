@@ -11,7 +11,7 @@
 
 <div align="left">
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.hajoujiidrissi@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hajouji-idrissi/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://prickle-walnut-dd7.notion.site/CURSUS-edba8eca743f401fa7ca18353bd5d8fc)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.hajoujiidrissi@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hajouji-idrissi-3971ba310/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://prickle-walnut-dd7.notion.site/CURSUS-edba8eca743f401fa7ca18353bd5d8fc)
 
 
 </div>
