@@ -4,7 +4,7 @@
 ---
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ6NmdxNXFqbnkwb3pjZnlvNWNqZWVyYjk2enh6bzJkNGdycXRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="270" />
 
-### About me
+### ➤ About me:
 > I am a 21-year-old software engineering enthusiast with a Bachelor's degree in Mathematics and Computer Science. Currently honing my skills at 1337, I am deeply passionate about coding and the endless possibilities it offers to solve real-world problems. Driven by curiosity and innovation, I aim to create impactful and efficient digital solutions that leave a lasting impression.
 
 <br/>
@@ -18,7 +18,30 @@
 
 ---
 
-### Languages & Tools ⚒️
+<br />
+
+### ➤ Github Stats:
+
+> These cards provide a detailed overview of my GitHub activity, including total stars, pull requests, commits, and other key statistics, offering a comprehensive snapshot of my contributions.
+
+<br />
+
+<div align="center">
+
+| [![ibrahim's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahim-hajouji&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibrahim-hajouji?tab=repositories) | [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibrahim-hajouji?tab=repositories) |
+|:-:|:-:|
+
+</div>
+
+---
+
+<br />
+
+### ➤ Languages & Tools:
+
+> Here are the programming languages I use to bring ideas to life, alongside the tools and microservices that power my development process.
+
+<br/>
 
 <div align="center">
   <table>
@@ -71,31 +94,9 @@
   </table>
 </div>
 
-
----
-
-### Github Stats
-
-> With these cards you can see the stats about my Github profile, (total number of starts and PRs, number of commits ...etc).
-
-<br />
-
-<div align="center">
-
-| [![amaitou's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amaitou&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) | [![amaitou's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amaitou&layout=compact&hide_border=true&theme=jolly)](https://github.com/amaitou?tab=repositories) |
-|:-:|:-:|
-
-</div>
-
 ---
 
 ### 42's Projects
-
-> Explore the projects from 42's Piscine and subsequent projects.
-
-| [![amait-ou's 42 stats](https://badge.mediaplus.ma/darkblue/amait-ou)](https://github.com/oakoudad/badge42) | [![Giphy](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn) |
-|:-:|:-:|
-
 
 <br />
 
