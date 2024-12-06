@@ -10,9 +10,9 @@
 <br/>
 
 <div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.hajoujiidrissi@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hajouji-idrissi/) [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/your-notion-link)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahim.hajoujiidrissi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hajouji-idrissi/)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| [![ibrahim's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ibrahim-hajouji&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/ibrahim-hajouji?tab=repositories) | [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&layout=compact&hide_border=true&theme=jolly)](https://github.com/ibrahim-hajouji?tab=repositories) |
+| [![ibrahim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ibrahim-hajouji&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji/github-readme-stats#gh-dark-mode-only) | [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories) |
 |:-:|:-:|
 
 </div>
