@@ -85,36 +85,31 @@
     </tr>
   </table>
 </div>
-<br/>
 
 ---
 
-### 42's Projects
-
 <br />
 
-<pre>
-┌──┤ 42/1337 PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/amaitou/1337/tree/master/Piscine-2022">Piscine 2022</a>
-├─◈ <a href="https://github.com/amaitou/libft">libft</a>
-├─◈ <a href="https://github.com/amaitou/ft_printf">ft_printf</a>
-├─◈ <a href="https://github.com/amaitou/get_next_line">get_next_line</a>
-├─◈ <a href="https://github.com/amaitou/Born2beRoot">Born2beRoot</a>
-├─◈ <a href="https://github.com/amaitou/minitalk">minitalk</a>
-├─◈ <a href="https://github.com/amaitou/so_long">so_long</a>
-├─◈ <a href="https://github.com/amaitou/push_swap">push_swap</a>
-├─◈ <a href="https://github.com/amaitou/Philosophers">Philosophers</a>
-├─◈ <a href="https://github.com/amaitou/minishell">minishell</a>
-├─◈ <a href="https://github.com/amaitou/NetPractice">NetPractice</a>
-├─◈ <a href="https://github.com/amaitou/cub3d">Cub3D</a>
-├─◈ <a href="https://github.com/amaitou/CPP-Modules">CPP_Modules</a>
-├─◈ <a href="https://github.com/amaitou/webserv">Webserv</a>
-├─◈ <a href="https://github.com/amaitou/42Exams">42Exams</a>
-│
-└───────────────────────────────▰▰▰
-</pre>
+### ➤ 42's Projects
 
-For more information about the **42 Network** where I follow my studies, feel free to check this repository [42/1337](https://github.com/amaitou/1337)
+<pre>
+╭───── 42/1337 PROJECTS ─────╮
+│                            │
+│      ➤ <a href="https://github.com/amaitou/1337/tree/master/Piscine-2022">Piscine 2022</a>        │
+│      ➤ <a href="https://github.com/amaitou/libft">libft</a>               │
+│      ➤ <a href="https://github.com/amaitou/ft_printf">ft_printf</a>           │
+│      ➤ <a href="https://github.com/amaitou/get_next_line">get_next_line</a>       │
+│      ➤ <a href="https://github.com/amaitou/Born2beRoot">Born2beRoot</a>         │
+│      ➤ <a href="https://github.com/amaitou/minitalk">minitalk</a>            │
+│      ➤ <a href="https://github.com/amaitou/so_long">so_long</a>             │
+│      ➤ <a href="https://github.com/amaitou/push_swap">push_swap</a>           │
+│      ➤ <a href="https://github.com/amaitou/Philosophers">Philosophers</a>        │
+│      ➤ <a href="https://github.com/amaitou/minishell">minishell</a>           │
+│      ➤ <a href="https://github.com/amaitou/NetPractice">NetPractice</a>         │
+│      ➤ <a href="https://github.com/amaitou/cub3d">Cub3D</a>               │
+│      ➤ <a href="https://github.com/amaitou/CPP-Modules">CPP_Modules</a>         │
+│                            │
+╰────────────────────────────╯
+</pre>
 
 ---
