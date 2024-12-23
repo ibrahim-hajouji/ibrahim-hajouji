@@ -28,7 +28,7 @@
 
 <div align="center">
 
-| [![ibrahim's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ibrahim-hajouji&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji/github-readme-stats#gh-dark-mode-only) | [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories) |
+| [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories) |
 |:-:|:-:|
 
 </div>
