@@ -22,14 +22,14 @@
 
 ### ➤ Github Stats:
 
-> These cards provide a detailed overview of my GitHub activity, including total stars, pull requests, commits, and other key statistics, offering a comprehensive snapshot of my contributions.
+> This card highlights key statistics from my GitHub activity, such as the most used programming languages, providing a concise snapshot of my coding contributions and preferences.
+
 
 <br />
 
 <div align="center">
 
-![ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-hajouji&show_icons=true&bg_color=00000000) | [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories) |
-|:-:|:-:|
+ [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories)
 
 </div>
 
