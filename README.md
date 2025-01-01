@@ -29,7 +29,8 @@
 
 <div align="center">
 
- [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories)
+| ![ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only) |  [![ibrahim's most used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ibrahim-hajouji&show_icons=true&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/ibrahim-hajouji?tab=repositories) |
+|:-:|:-:|
 
 </div>
 
