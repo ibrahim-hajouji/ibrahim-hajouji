@@ -96,7 +96,7 @@
 <pre>
 ╭───── 42/1337 PROJECTS ─────╮
 │                            │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/42-Pool">Pool 2023</a>           │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/42-Pool">Pool</a>                │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/libft">Libft</a>               │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/ft_printf">ft_printf</a>           │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/get_next_line">get_next_line</a>       │
@@ -107,6 +107,7 @@
 │      ➤ <a href="https://github.com/ibrahim-hajouji/minishell">minishell</a>           │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/cub3d">Cub3D</a>               │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/CPP-Modules">CPP_Modules</a>         │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/ft_irc">ft_irc</a>              │
 │                            │
 ╰────────────────────────────╯
 </pre>
