@@ -51,8 +51,8 @@
       <th>Markup</th>
       <th>Frameworks</th>
       <th>Databases</th>
-      <th>Management</th>
-      <th>Design</th>
+      <th>Web Servers</th>
+      <th>DevOps</th>
     </tr>
     <tr>
       <td>
@@ -73,15 +73,17 @@
         <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" alt="Laravel"/>
       </td>
       <td>
-        <img src="https://shields.io/badge/MySQL-lightgrey?logo=mysql&style=plastic&logoColor=white&labelColor=blue" alt="Mysql"/>
+        <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion"/>
-        <img src="https://img.shields.io/badge/-Google%20Docs-4285F4?style=flat-square&logo=google%20docs&logoColor=white" alt="Google Docs"/>
+        <img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
+        <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white" alt="Apache"/>
       </td>
       <td>
-        <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-        <img src="https://img.shields.io/badge/Canva-7952B3?style=flat&logo=canva" alt="Canva"/>
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
       </td>
     </tr>
   </table>
