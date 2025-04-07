@@ -60,8 +60,8 @@
         <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
         <br>
         <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       </td>
       <td>
         <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
@@ -110,6 +110,7 @@
 │      ➤ <a href="https://github.com/ibrahim-hajouji/cub3d">Cub3D</a>               │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/CPP-Modules">CPP_Modules</a>         │
 │      ➤ <a href="https://github.com/ibrahim-hajouji/ft_irc">ft_irc</a>              │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/inception">inception</a>           │
 │                            │
 ╰────────────────────────────╯
 </pre>
