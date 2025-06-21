@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ibahim-hajouji&abbreviated=true)
+ ![](https://komarev.com/ghpvc/?username=ibahim-hajouji&abbreviated=true)
 
 ### Hi, I'm Ibrahim Hajouji Idrissi 👋
 ---
@@ -98,19 +98,19 @@
 <pre>
 ╭───── 42/1337 PROJECTS ─────╮
 │                            │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/42-Pool">Pool</a>                │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/libft">Libft</a>               │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/ft_printf">ft_printf</a>           │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/get_next_line">get_next_line</a>       │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/Pipex">Pipex</a>               │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/so_long">so_long</a>             │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/push_swap">push_swap</a>           │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/Philosophers">Philosophers</a>        │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/minishell">minishell</a>           │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/cub3d">Cub3D</a>               │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/CPP-Modules">CPP_Modules</a>         │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/ft_irc">ft_irc</a>              │
-│      ➤ <a href="https://github.com/ibrahim-hajouji/inception">inception</a>           │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/42-Pool">Pool</a>                 │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/libft">Libft</a>                │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/ft_printf">ft_printf</a>            │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/get_next_line">get_next_line</a>        │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/Pipex">Pipex</a>                │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/so_long">so_long</a>              │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/push_swap">push_swap</a>            │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/Philosophers">Philosophers</a>         │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/minishell">minishell</a>            │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/cub3d">Cub3D</a>                │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/CPP-Modules">CPP_Modules</a>          │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/ft_irc">ft_irc</a>               │
+│      ➤ <a href="https://github.com/ibrahim-hajouji/inception">inception</a>            │
 │                            │
 ╰────────────────────────────╯
 </pre>
