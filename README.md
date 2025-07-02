@@ -5,7 +5,7 @@
 <img align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJ6NmdxNXFqbnkwb3pjZnlvNWNqZWVyYjk2enh6bzJkNGdycXRjayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="270" />
 
 ### ➤ About me:
-> I am a 21-year-old software engineering enthusiast with a Bachelor's degree in Mathematics and Computer Science. Currently honing my skills at 1337, I am deeply passionate about coding and the endless possibilities it offers to solve real-world problems. Driven by curiosity and innovation, I aim to create impactful and efficient digital solutions that leave a lasting impression.
+> I’m a 22-year-old software engineering enthusiast with a Bachelor's degree in Mathematics and Computer Science. Having recently completed the rigorous 1337 Common Core program, I am sharpening my coding skills and expanding my knowledge every day. Fueled by curiosity and innovation, I am passionate about building impactful, efficient digital solutions that tackle real-world challenges and leave a lasting impression.
 
 <br/>
 
